@@ -1,6 +1,6 @@
 # microservices-example
 
-##Project setup
+## Project setup
 
 1. Download the code in a specific folder and get into it
 1. Install Node on your computer
